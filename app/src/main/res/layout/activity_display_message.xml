@@ -28,7 +28,7 @@
         android:ems="10"
         android:gravity="start|top"
         android:inputType="textMultiLine"
-        android:text="My name is Nathan Mckenize, I am a sophmore at ACU. I am majoring in Computer Science with a minor in Business Administration. I am not totally sure If I want to be a programmer when I get out of college or do something else with my major. If I do go down the programming route, my hope is that I can eventually switch over to the management side."
+        android:text="My name is Nathan Mckenzie, I am a sophmore at ACU. I am majoring in Computer Science with a minor in Business Administration. I am not totally sure If I want to be a programmer when I get out of college or do something else with my major. If I do go down the programming route, my hope is that I can eventually switch over to the management side."
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
